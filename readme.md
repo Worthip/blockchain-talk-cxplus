@@ -1,7 +1,7 @@
 
-# Blockchain: Secret Sauce or Snake Oil?
+# This is an amended version of Blockchain: Secret Sauce or Snake Oil? - used for True Spotlight session 11th September 2018
 
-Originall a presentation from a [Cohaesus](https://cohaesus.co.uk/) [tech talk](https://www.eventbrite.co.uk/e/blockchain-secret-sauce-or-snake-oil-tickets-43202281186) aimed at puncturing some of the myths about blockchain. The talk was designed to explain blockchain from first principles to a non-tech audience.
+It is originally a presentation from a [Cohaesus](https://cohaesus.co.uk/) [tech talk](https://www.eventbrite.co.uk/e/blockchain-secret-sauce-or-snake-oil-tickets-43202281186) aimed at puncturing some of the myths about blockchain. The talk was designed to explain blockchain from first principles to a non-tech audience.
 
 The code snapshot from the night can be found at https://github.com/cohaesus/blockchain-talk   
 And an ongoing version at https://github.com/julianbrowne/blockchain-talk   
